@@ -1,0 +1,39 @@
+times: Tuesdays 7:50pm - 10:30pm
+room: GL 139
+name: Alex Afanasyev
+contact: aa at cs.fiu.edu
+office_hours: Tuesdays 5:30pm - 7:30pm, ECS 261B (or appointment by email)
+
+midterm: Mar 20, 2018
+
+assignments:
+
+  - name: Homeworks
+    items:
+     - name:     Homework 1
+       deadline: Jan 16, 2018
+     - name:     Homework 2
+       deadline: Jan 23, 2018
+     - name:     Homework 3
+       deadline: Feb 13, 2018
+     - name:     Homework 4
+       deadline: Feb 20, 2018
+     - name:     Homework 5
+       deadline: Feb 27, 2018
+     - name:     Homework 6
+       deadline: Mar 6, 2018
+     - name:     Homework 7
+       deadline: Apr 3, 2018
+     - name:     Homework 8
+       deadline: Apr 17, 2018
+
+  - name: Project paper
+    items:
+     - name:     Topics
+       deadline: Jan 30, 2018
+     - name:     References
+       deadline: Feb 6, 2018
+     - name:     Outline
+       deadline: Mar 13, 2018
+     - name:     Final draft
+       deadline: Apr 10, 2018
